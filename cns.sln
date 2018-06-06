@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cns_gpio", "cns_gpio\cns_gpio.vcproj", "{7C82DA82-CC94-4206-9724-EB26F962DB96}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cns_backlight", "cns_backlight\cns_backlight.vcproj", "{F1B25D5A-05E6-4B6C-AA43-19535F9E7C37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Magellan8803_GGC (ARMV4I) = Debug|Magellan8803_GGC (ARMV4I)
+		Release|Magellan8803_GGC (ARMV4I) = Release|Magellan8803_GGC (ARMV4I)
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C82DA82-CC94-4206-9724-EB26F962DB96}.Debug|Magellan8803_GGC (ARMV4I).ActiveCfg = Debug|Magellan8803_GGC (ARMV4I)
+		{7C82DA82-CC94-4206-9724-EB26F962DB96}.Debug|Magellan8803_GGC (ARMV4I).Build.0 = Debug|Magellan8803_GGC (ARMV4I)
+		{7C82DA82-CC94-4206-9724-EB26F962DB96}.Debug|Magellan8803_GGC (ARMV4I).Deploy.0 = Debug|Magellan8803_GGC (ARMV4I)
+		{7C82DA82-CC94-4206-9724-EB26F962DB96}.Release|Magellan8803_GGC (ARMV4I).ActiveCfg = Release|Magellan8803_GGC (ARMV4I)
+		{7C82DA82-CC94-4206-9724-EB26F962DB96}.Release|Magellan8803_GGC (ARMV4I).Build.0 = Release|Magellan8803_GGC (ARMV4I)
+		{7C82DA82-CC94-4206-9724-EB26F962DB96}.Release|Magellan8803_GGC (ARMV4I).Deploy.0 = Release|Magellan8803_GGC (ARMV4I)
+		{F1B25D5A-05E6-4B6C-AA43-19535F9E7C37}.Debug|Magellan8803_GGC (ARMV4I).ActiveCfg = Debug|Magellan8803_GGC (ARMV4I)
+		{F1B25D5A-05E6-4B6C-AA43-19535F9E7C37}.Debug|Magellan8803_GGC (ARMV4I).Build.0 = Debug|Magellan8803_GGC (ARMV4I)
+		{F1B25D5A-05E6-4B6C-AA43-19535F9E7C37}.Debug|Magellan8803_GGC (ARMV4I).Deploy.0 = Debug|Magellan8803_GGC (ARMV4I)
+		{F1B25D5A-05E6-4B6C-AA43-19535F9E7C37}.Release|Magellan8803_GGC (ARMV4I).ActiveCfg = Release|Magellan8803_GGC (ARMV4I)
+		{F1B25D5A-05E6-4B6C-AA43-19535F9E7C37}.Release|Magellan8803_GGC (ARMV4I).Build.0 = Release|Magellan8803_GGC (ARMV4I)
+		{F1B25D5A-05E6-4B6C-AA43-19535F9E7C37}.Release|Magellan8803_GGC (ARMV4I).Deploy.0 = Release|Magellan8803_GGC (ARMV4I)
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
